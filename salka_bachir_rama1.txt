@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 hashahs
 ad
+=======
+ahs
+ajhsd
+>>>>>>> salka_bachir_rama
 
 hhi
 hsds 
